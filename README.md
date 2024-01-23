@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Autonomous Stack Web Interface**
+ 🔭 I’m currently working on **Autonomous Stack Web Application**
  
  🌱 I’m currently working at **ALA Engineering**
 
@@ -33,3 +33,13 @@
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,html,css,javascript,java,aws,vite" />
     <img src="https://skillicons.dev/icons?i=bootstrap,mui,tailwind,git,github,githubactions,vscode,mysql,docker,linux,postman,webpack,threejs" /><br>
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/minasamy9090/minasamy9090/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
